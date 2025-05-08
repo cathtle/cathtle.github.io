@@ -30,7 +30,7 @@ author:
   employer         : "Nankai University"
   url              : # url   
   email            : "13015327101@163.com"
-  email_obfuscate  : false # true, false (default) - if true, email will be obfuscated to prevent spam bots
+ 
 
 
   # Repositories and software development
