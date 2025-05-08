@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "zh-CN" # zh-CN, en-US, ja-JP, ko-KR, de-DE, fr-FR, es-ES, ru-RU
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Gao xiang's blog" # the title of your site, e.g. "My Blog"
 title_separator          : "-"
-name                     : &name "高翔"
-description              : &description "微纳加工,AR衍射光波导,纳米压印"
+name                     : &name "Gaoxiang"
+description              : &description "nanofabric,AR diffraction,Nanoimprint"
 url                      : https://cathtle.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cathtle/cathtle.github.io"
