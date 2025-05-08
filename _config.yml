@@ -28,8 +28,9 @@ author:
   bio              : "永远相信美好的事情即将发生"
   location         : "Tianjin, China"
   employer         : "Nankai University"
+  url              : # url   
   email            : "13015327101@163.com" 
-  email_obfuscate  : true # true (default), false
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
