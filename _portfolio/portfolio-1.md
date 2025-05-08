@@ -1,8 +1,8 @@
 ---
 title: "Experience in German litho"
-excerpt: "Interference Exposure and Nanoimprinting <br/><img src='/images/500x300.png'>"
+excerpt: "Interference Exposure instrument and Nanoimprinting process <br/><img src='/images/干涉曝光.png'>"
 collection: portfolio
 ---
 
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
