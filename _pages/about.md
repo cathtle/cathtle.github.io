@@ -51,7 +51,7 @@ Comsol、FDTD、 Rsoft+Lighttools、virtuallabFusion、**（仿真设计）**<br
 实习经历
 ==========
 
-天仁微纳&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;实习生
+天仁微纳&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;实习生
 -----                                                              
 1.基于热回流工艺，成功完成球形微透镜阵列模板的加工，并对透镜参数进行调整验证<br>
 
@@ -59,7 +59,7 @@ Comsol、FDTD、 Rsoft+Lighttools、virtuallabFusion、**（仿真设计）**<br
 
 3.使用ICP完成压印模板的制作，并优化以及验证Cr膜层表面的**压印工艺**<br>
 
-鲁汶仪器&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;实习生
+鲁汶仪器&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;实习生
 ----- 
 1.优化Cr/Mo硬掩模刻蚀工艺，完成TiO2倾斜刻蚀工艺的开发，并作为工程师协助**完成多家客户demo**<br>
 
