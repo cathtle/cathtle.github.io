@@ -11,8 +11,8 @@ main:
 
   - title: "Curriculum Vitae"
     url: /talks/ 
-  # - title: "CV"
-  #   url: /cv-json/  
+  - title: "CV"
+    url: /cv/  
   - title: "Internship Experiences"
     url: /Internship Experiences/
    
