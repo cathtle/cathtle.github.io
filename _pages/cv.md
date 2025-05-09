@@ -14,10 +14,9 @@ Education
 
 Self-study Courses: Electrodynamics, Waveguide Optics, Optics, Fourier Optics<br>
 
-**Chongqing University&ensp;|&ensp;**
-&ensp;international Elite institute of engineering&ensp;|&ensp; GPA:3.92/4&ensp;|&ensp;Sep 2022 – Jun 2023<br>
-
- Materials Science and Engineering&ensp;|&ensp;GPA: 3.69/4&ensp; | &ensp;**CET-6: 586**&ensp; |&ensp;Sep 2019 – Jun 2022&ensp;<br>
+**Chongqing University**
+- International Elite Institute of Engineering &ensp;|&ensp; GPA: 3.92/4&ensp; | &ensp;Sep 2022 – Jun 2023&ensp;
+- Materials Science and Engineering &ensp;|&ensp; GPA: 3.69/4 &ensp;|&ensp; **CET-6: 586**&ensp;| Sep 2019 – Jun 2022&ensp;
 
 Major Courses: Fundamentals of Materials Science, X-ray Diffraction and Electron Microscopy, Solid-State Physics, Software Development Basics (C++/Python), Electrical and Electronic Engineering<br>
 
