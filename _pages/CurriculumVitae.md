@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "GaoXiang CurriculumVitae"
+title: "GaoXiangCurriculumVitae"
 author_profile: true
 redirect_from:
   - /resume

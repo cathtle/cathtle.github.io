@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CurriculumVitae"
-permalink: /cv-json/
+permalink: /CurriculumVitae-json/
 author_profile: false
 redirect_from:
   - /resume-json
