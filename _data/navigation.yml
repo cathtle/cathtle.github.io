@@ -11,23 +11,24 @@ main:
 
   ##- title: "Curriculum Vitae"
   ##  url: /talks/ 
+
   - title: "Curriculum Vitae"
     url: /cv/  
+    
   - title: "Internship Experiences"
     url: /Internship Experiences/
    
   - title: "Publications"
     url: /publications/
 
-
-  - title: "Teaching"
-    url: /teaching/    
+  ##- title: "Teaching"
+  ##  url: /teaching/    
   
 
         
-## - title: "Blog Posts"
- ##  url: /year-archive/
+  ## - title: "Blog Posts"
+  ##  url: /year-archive/
     
     
-## - title: "Guide"
- ##    url: /markdown/
+  ## - title: "Guide"
+  ##    url: /markdown/
