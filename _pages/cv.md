@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "GaoXiang Curriculum Vitae"
 author_profile: true
 redirect_from:
   - /resume
