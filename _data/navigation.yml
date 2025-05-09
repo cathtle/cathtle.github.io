@@ -10,7 +10,7 @@
 main:
 
   - title: "CurriculumVitae"
-    url: /CurriculumVitae/
+    url: /CV/
   # - title: "CV"
   #   url: /cv-json/  
   - title: "Internship Experiences"
