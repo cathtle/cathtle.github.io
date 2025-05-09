@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN" # zh-CN, en-US, ja-JP, ko-KR, de-DE, fr-FR, es-ES, ru-RU
 site_theme               : "default"
-title                    : "Gao xiang's blog" # the title of your site, e.g. "My Blog"
+title                    : "高翔简历(中文)" # the title of your site, e.g. "My Blog"
 title_separator          : "-"
 name                     : &name "Gaoxiang"
 description              : &description "nanofabric,AR diffraction,Nanoimprint"
