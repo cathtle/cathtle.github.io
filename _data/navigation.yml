@@ -9,8 +9,8 @@
 
 main:
 
-  - title: "Curriculum Vitae"
-    url: /Curriculum Vitae/
+  - title: "CurriculumVitae"
+    url: /CurriculumVitae/
   # - title: "CV"
   #   url: /cv-json/  
   - title: "Internship Experiences"
