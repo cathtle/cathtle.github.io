@@ -9,7 +9,7 @@
 
 main:
 
-  - title: "CurriculumVitae"
+  - title: "cv"
     url: /cv/
   # - title: "CV"
   #   url: /cv-json/  
