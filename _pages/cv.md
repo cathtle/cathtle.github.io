@@ -14,7 +14,7 @@ Education
 
 Self-study Courses: Electrodynamics, Waveguide Optics, Optics, Fourier Optics<br>
 
-**Chongqing University**
+**Chongqing University** Bachelor <br>
 - International Elite Institute of Engineering &ensp;|&ensp; GPA: 3.92/4&ensp; | &ensp;Sep 2022 – Jun 2023&ensp;
 - Materials Science and Engineering &ensp;|&ensp; GPA: 3.69/4 &ensp;|&ensp; **CET-6: 586**&ensp;| Sep 2019 – Jun 2022&ensp;
 
