@@ -18,7 +18,6 @@ redirect_from:
 材料科学与工程 &ensp;|&ensp; GPA(3.69/4)&ensp; &ensp;|&ensp;**CET6-586**&ensp; |&ensp; 2019年9月——2022年6月 &ensp; <br>
 主修课程: 材料科学基础、X射线衍射与电子显微学、固体物理、软件开发基础（C++/Python）、电工电子学等<br>
 
-
 掌握技能:
 -----
 Comsol、FDTD、 Rsoft+Lighttools、virtuallabFusion、**（仿真设计）**<br> EBL 、DWL 、干涉曝光、纳米压印 **（图形化）** <br>RIBE/IBE 、ICP **（刻蚀）** <br>磁控溅射、离子束沉积、真空蒸镀 **（沉积）** <br>SEM 、AFM、共聚焦、显微镜 **（表征）**
