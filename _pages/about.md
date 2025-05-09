@@ -1,49 +1,64 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "高翔个人简历 "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+个人评价：
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1.具备较强的沟通与协作能力，拥有1年以上跨部门、跨公司项目协作经验，有较好的团队合作能力，执行力强 
+2.熟悉整个半导体工艺流程中的关键设备，如干涉曝光、纳米压印、刻蚀、沉积等，深入了解SiC、Si、SiO₂等材料的加工工艺，掌握多种面型光栅的设计加工方法与工艺优化路径，熟悉激光直写灰度加工方法。
+3.掌握常见的衍射光波导设计，包括一维扩瞳，二维扩瞳等方案，熟悉非电子束衍射光波导母版加工方法，综合能力强。
+4.有良好的自驱力，学习能力强
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+教育经历：
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**南开大学  &emsp;  硕士** &emsp;材料物理与化学 **（AR衍射光波导设计及半导体加工工艺，校企联培）** &emsp; 2023年9月——至今
+自修课程:&emsp;电动力学、导波光学、光学、傅里叶光学等
+**重庆大学&emsp; 本科**&emsp; 国家卓越工程师学院 GPA (3.92/4) &emsp;&emsp;&emsp;2022年9月——2023年6月
+材料科学与工程 &emsp;  GPA(3.69/4) &emsp; **CET6-586**   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;      2019年9月——2022年6月
+主修课程:材料科学基础、X射线衍射与电子显微学、固体物理、软件开发基础（C++/Python）、 电工电子学等
 
-Site-wide configuration
+掌握技能:
+-----
+Comsol、FDTD、 Rsoft+Lighttools、virtuallabFusion、**（仿真设计）** EBL 、DWL 、干涉曝光、纳米压印 **（图形化）** 、RIBE/IBE 、ICP **（刻蚀）** 、磁控溅射、离子束沉积、真空蒸镀 **（沉积）** 、SEM 、AFM、共聚焦显微镜 **（表征）**
+
+科研及项目经历：
+======
+衍射光波导设计
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1.基于Rsoft RCWA与Comsol相互印证计算光栅衍射效率，优化光栅面型，同时与Lighttools结合实现一维扩瞳衍射光波导设计，使用图像处理算法对衍射结果进行均匀度分析，实现均匀度92%设计
 
-Create content & metadata
+2.基于光栅衍射理论以及K矢量分析法，设计包括耦入，转折，耦出光栅的二维衍射光波导
+
+干涉曝光协同纳米压印图案化
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+使用干涉曝光光路(266nm光源)在4寸晶圆上制备小线宽(250nm)光栅结构，通过ICP刻蚀调整PR占空比完成占空比0.3的Si模板刻蚀，使用纳米压印工艺在2寸镀Cr衬底上完成图形化，完成晶圆级光栅加工
 
-**Markdown generator**
+倾斜TiO~2~光栅刻蚀工艺开发
+------ 
+使用ICP设备干法刻蚀Cr掩膜，后续基于离子束刻蚀（RIBE）设备完成倾斜TiO2光栅工艺开发及验证,满足光栅设计需求，同时为国产离子束刻蚀设备后续升级开发提供经验
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+基于多传感器的校园巡逻车研究与实现（国家卓越工程师学院）
+------ 
+基于ROS机器人操作系统,使用Rtabmap算法对红外摄像头数据与激光雷达数据进行融合,完成SLAM建图功能 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+实习经历
+==========
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+天仁微纳  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;实习生
+-----                                                              
+1.基于热回流工艺，成功完成球形微透镜阵列模板的加工，并对透镜参数进行调整验证
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+2.协助干涉曝光光路的搭建，并参与曝光工艺的优化与验证
+
+3.使用ICP完成压印模板的制作，并优化以及验证Cr膜层表面的压印工艺
+
+鲁汶仪器&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;实习生
+----- 
+1.优化Cr/Mo硬掩模刻蚀工艺，完成TiO2倾斜刻蚀工艺的开发，并作为工程师完成多家客户demo
+
+2.参与机台稳定性验证，确保设备稳定性与工艺一致性
