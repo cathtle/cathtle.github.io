@@ -10,7 +10,8 @@ redirect_from:
 
 <h1 style="color: #1a4e8c;">Education</h1>
 
-**Nankai University** &ensp;&ensp; Master&ensp;&ensp;(Materials Physics and Chemistry)&ensp;—&ensp;**AR Diffraction Waveguide and Semiconductor Process, University-Enterprise Joint Training**&ensp;&ensp;&emsp;Sep 2023 – Present&ensp;<br>
+**Nankai University** &ensp;&ensp; Master&ensp;&ensp;(Materials Physics and Chemistry)&ensp;—&ensp;<br>
+**AR Diffraction Waveguide and Semiconductor Process, University-Enterprise Joint Training**&ensp;&ensp;&emsp;Sep 2023 – Present&ensp;<br>
 
 Self-study Courses: Electrodynamics, Waveguide Optics, Optics, Fourier Optics<br>
 
