@@ -30,22 +30,24 @@ Research & Projects
 ========
 Diffraction Waveguide Design
 --------------
-1.Verified grating diffraction efficiency through Rsoft RCWA and Comsol, optimizing grating surface profiles.Integrated LightTools to achieve 1D pupil expansion for diffraction waveguide design.<br>
-2.Implemented image processing algorithms for diffraction uniformity analysis, achieving 92% uniformity.<br>
-3.Designed 2D diffraction waveguides, including in-coupling, turning, and out-coupling gratings, based on diffraction theory and K-vector analysis.<br>
+1.Verified grating diffraction efficiency through **Rsoft RCWA and Comsol** and optimizing grating surface profiles.Integrated LightTools to achieve 1D pupil expansion for diffraction waveguide design.<br>
+2.Implemented image processing algorithms for diffraction uniformity analysis,**achieving 92% uniformity**.<br>
+3.Designed 2D diffraction waveguides, including in-coupling, turning, and out-coupling gratings, based on **diffraction theory and K-vector analysis**.<br>
 
 Interference Lithography & Nanoimprint Lithography 
 ------------
-1.Utilized 266nm light source for interference lithography on a 2-inch wafer, fabricating 250nm linewidth grating structures<br>
-2.Adjusted PR duty cycle via ICP etching, achieving a 0.32 duty cycle Si template.<br>
-3.Applied nanoimprint lithography (NIL) to create high aspect ratio structures on substrates.<br>
+1.Utilized **266nm** light source for interference lithography on a 4-inch wafer, fabricating **250nm** linewidth grating structures **period 550nm**<br>
+2.Adjusted PR fillfactor via ICP etching, achieving a **0.32** fillfactor Si mold.<br>
+3.Applied nanoimprint lithography (NIL) to create structures on a **2-inch wafer** with coating Cr‑film  substrates.<br>
 
 Slanted TiO₂ Grating Etching Process Development 
 -------------------
-•	Used domestic ICP etching for Cr mask dry etching.
-•	Developed and validated 30° tilted TiO₂ gratings using domestic ion beam etching (RIBS).
-•	Provided key insights for future upgrades of domestic ion beam etching equipment.
+1.Used ICP etching for **Cr mask dry etching**.
+2.Developed and validated 30° **slanted TiO₂ gratings** using Reactive ion beam etching (RIBE).
+3.Provided key insights for future upgrades of **Reactive ion beam etching equipment**.
+
 Multi-Sensor Campus Patrol Vehicle (International Elite institute of engineering)
+------------------------
 •	Implemented SLAM mapping using ROS and Rtabmap to fuse infrared camera and LiDAR data.
 
 Internship Experience
@@ -53,27 +55,27 @@ Internship Experience
 
 GermanLitho Co., Ltd. — Intern
 ------------
-1.Fabricated spherical microlens‑array masters via thermal reflow, then tuned and verified the optical parameters of the lenses.
+1.Fabricated spherical microlens‑array molds via thermal reflow, tuned and verified the parameters of the lenses.
 
-2.Assisted in building an interference‑lithography optical setup and helped optimise and validate the exposure process.
+2.Assisted in building an **interference‑lithography optical setup** and helped optimise and validate the exposure process.
 
-3.Produced nano‑imprint masters using ICP etching, and further refined and validated the Cr‑film surface imprint process.
+3.Produced nano‑imprint molds using ICP etching, and further refined and validated the **Cr‑film surface nanoimprint process**.
 
 Leuven Instruments Co., Ltd. — Intern
 -----------------
-1.Optimised Cr/Mo hard‑mask etching parameters and developed a wafer‑level tilted‑TiO₂ etching process, delivering multiple customer demos in an engineering role.
+1.Optimised Cr/Mo hard‑mask etching parameters and developed a wafer‑level tilted‑TiO₂ etching process, **delivering multiple customer demos** in an engineering role.
 
-2.Participated in equipment stability testing to ensure long‑term tool reliability and process repeatability.
+2.Participated in **equipment stability testing** to ensure long‑term tool reliability and process repeatability.
 
 Profile Summary
 ==========
-Strong communication and collaboration skills, with over one year of experience in cross-departmental and cross-company project coordination; highly effective team player with strong execution capabilities.
+1.Strong communication and collaboration skills, with over one year of experience in cross-departmental and cross-company project coordination; **highly effective team player with strong execution capabilities**.
 
-Familiar with key equipment across the semiconductor fabrication process, including interference lithography, nanoimprint lithography, etching, and deposition. In-depth understanding of process technologies for materials such as SiC, Si, and SiO₂. Proficient in the design and fabrication of various surface-relief gratings, including methods for process optimisation. Experienced in grayscale laser direct writing.
+2.Familiar with key equipment across the semiconductor fabrication process, including interference lithography, nanoimprint lithography, etching, and deposition. In-depth understanding of process technologies for materials such as **SiC, Si, and SiO₂**. Proficient in the design and fabrication of various **surface-relief gratings**, including methods for process optimisation. Experienced in grayscale laser direct writing.
 
-Skilled in the design of diffractive optical waveguides, including both one-dimensional and two-dimensional pupil expansion schemes. Familiar with non-e-beam-based fabrication techniques for diffractive waveguide masters, with strong integrated technical capabilities.
+3.Skilled in the design of diffractive optical waveguides, including both one-dimensional and two-dimensional pupil expansion schemes. Familiar with non-e-beam-based fabrication techniques for diffractive waveguide molds, with **strong integrated technical capabilities**.
 
-Highly self-motivated and capable of rapid learning in new domains.
+4.Highly self-motivated and capable of **rapid learning in new domains**.
 
 
 
