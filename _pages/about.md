@@ -14,7 +14,8 @@ redirect_from:
 自修课程: 电动力学、导波光学、光学、傅里叶光学等<br>
 
 
-**重庆大学 &ensp;| &ensp;本科(3+1)**&ensp; |&ensp; 国家卓越工程师学院 GPA (3.92/4)&ensp; | &ensp;2022年9月——2023年6月&ensp;  <br>
+**重庆大学 &ensp;| &ensp;本科(3+1)**&ensp; |&ensp; <br>
+国家卓越工程师学院 GPA (3.92/4)&ensp; | &ensp;2022年9月——2023年6月&ensp;  <br>
 材料科学与工程 &ensp;|&ensp; GPA(3.69/4)&ensp; &ensp;|&ensp;**CET6-586**&ensp; |&ensp; 2019年9月——2022年6月 &ensp; <br>
 主修课程: 材料科学基础、X射线衍射与电子显微学、固体物理、软件开发基础（C++/Python）、电工电子学等<br>
 
