@@ -1,5 +1,5 @@
 ---
-title: "Wafer-scale TiO₂ Grating (manuscript in preparation)"
+title: "Wafer-scale Slanted TiO₂ Grating (manuscript in preparation)"
 collection: publications
 category: manuscripts
 hide_date: true
