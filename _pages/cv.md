@@ -66,7 +66,7 @@ Implemented SLAM mapping using ROS and Rtabmap to fuse infrared camera and LiDAR
 
 <h2 style="color: #6c7a89;">Leuven Instruments Co., Ltd. — Intern</h2>
 
-1.Optimized Cr/Mo hard‑mask etching parameters and Optimized and implemented TiO₂ slanted etching processes across multiple fabrication scales, including both 8-inch and 12-inch wafer processing equipment. **delivering multiple customer demos** in an engineering role.<br>
+1.Optimized Cr/Mo hard‑mask etching parameters and Optimized and implemented TiO₂ slanted etching processes across multiple fabrication scales, including **both 8-inch and 12-inch wafer processing equipment，delivering multiple customer demos** in an engineering role.<br>
 
 2.Participated in **equipment stability testing** to ensure long‑term tool reliability and process repeatability.<br>
 
