@@ -63,7 +63,7 @@ Comsol、FDTD、 Rsoft+Lighttools、virtuallabFusion、**（仿真设计）**<br
 
 鲁汶仪器&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;实习生
 ----- 
-1.优化Cr/Mo硬掩模刻蚀工艺，完成TiO2倾斜刻蚀工艺的开发，并作为工程师协助**完成多家客户demo**<br>
+1.优化Cr/Mo硬掩模刻蚀工艺，分别在**8寸设备与12寸设备**完成TiO2倾斜刻蚀工艺的开发，并作为工程师协助**完成多家客户demo**<br>
 
 2.参与机台稳定性**验证**，确保设备稳定性与工艺一致性<br>
 
