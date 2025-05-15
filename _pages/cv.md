@@ -32,7 +32,7 @@ Major Courses: Fundamentals of Materials Science, X-ray Diffraction and Electron
 
 <h2 style="color: #6c7a89;">Diffraction Waveguide Design</h2>
 
-1.Verified grating diffraction efficiency through **RSoft RCWA and ComSol** and optimizing grating surface profiles.Integrated LightTools to achieve 1D pupil expansion for diffraction waveguide design.<br>
+1.Verifiy grating diffraction efficiency through **RSoft RCWA and ComSol** and optimizing grating surface profiles.Integrated LightTools to achieve 1D pupil expansion for diffraction waveguide design.<br>
 2.Implemented image processing algorithms for diffraction uniformity analysis,**achieving 92% uniformity**.<br>
 3.Designed 2D diffraction waveguides, including in-coupling, turning, and out-coupling gratings, based on **diffraction theory and K-vector analysis**.<br>
 
