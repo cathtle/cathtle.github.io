@@ -74,7 +74,7 @@ Implemented SLAM mapping using ROS and Rtabmap to fuse infrared camera and LiDAR
 
 1.Strong communication and collaboration skills, with over one year of experience in cross-departmental and cross-company project coordination; **highly effective team player with strong execution capabilities**.<br>
 
-2.Familiar with key equipment across the semiconductor fabrication process, including interference lithography, NanoImprint lithography, etching, and deposition. In-depth understanding of process technologies for materials such as **SiC, Si, and SiO₂**. Proficient in the design and fabrication of various **surface-relief gratings**, including methods for process optimization. Experienced in grayscale laser direct writing.<br>
+2.Familiar with key equipment across the semiconductor fabrication process, including interference lithography, NanoImprint lithography, etching, and deposition. In-depth understanding of process technologies for materials such as **SiC, Si, and SiO₂,TiO₂,**. Proficient in the design and fabrication of various **surface-relief gratings**, including methods for process optimization. Experienced in grayscale laser direct writing.<br>
 
 3.Skilled in the design of diffractive optical waveguides, including both one-dimensional and two-dimensional pupil expansion schemes. Familiar with non-e-beam-based fabrication techniques for diffractive waveguide molds, with **strong integrated technical capabilities**.<br>
 
