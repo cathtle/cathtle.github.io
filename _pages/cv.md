@@ -32,43 +32,43 @@ Major Courses: Fundamentals of Materials Science, X-ray Diffraction and Electron
 
 <h2 style="color: #6c7a89;">Diffraction Waveguide Design</h2>
 
-1.Verifiy grating diffraction efficiency through **RSoft RCWA and ComSol** and optimizing grating surface profiles.Integrated LightTools to achieve 1D pupil expansion for diffraction waveguide design.<br>
-2.Implemented image processing algorithms for diffraction uniformity analysis,**achieving 92% uniformity**.<br>
-3.Designed 2D diffraction waveguides, including in-coupling, turning, and out-coupling gratings, based on **diffraction theory and K-vector analysis**.<br>
+1.Verify grating diffraction efficiency through **RSoft RCWA and ComSol** and optimize grating surface profiles.Integrated LightTools to achieve 1D pupil expansion for diffraction waveguide design.<br>
+2.Implement image processing algorithms for diffraction uniformity analysis,**achieving 92% uniformity**.<br>
+3.Design 2D diffraction waveguides, including in-coupling, turning, and out-coupling gratings, based on **diffraction theory and K-vector analysis**.<br>
 
 <h2 style="color: #6c7a89;">Interference Lithography & NanoImprint Lithography</h2>
 
 
-1.Utilized **266nm** light source for interference lithography on a 4-inch wafer, fabricating **250nm** linewidth grating structures **period 550nm**<br>
-2.Adjusted PR fill factor via ICP etching, achieving a **0.32** fill factor Si mold.<br>
-3.Applied NanoImprint lithography (NIL) to create structures on a **2-inch wafer** with coating Cr‑film  substrates.<br>
+1.Utilize **266nm** light source for interference lithography on a 4-inch wafer, fabricating **250nm** linewidth grating structures **period 550nm**<br>
+2.Adjust PR fill factor via ICP etching, achieving a **0.32** fill factor Si mold.<br>
+3.Apply NanoImprint lithography (NIL) to create structures on a **2-inch wafer** with coating Cr‑film  substrates.<br>
 
 <h2 style="color: #6c7a89;">Slanted TiO₂ Grating Etching Process Development</h2>
 
-1.Used ICP etching for **Cr mask dry etching**.<br>
-2.Developed and validated 30° **slanted TiO₂ gratings** using Reactive ion beam etching (RIBE).<br>
-3.Provided key insights for future upgrades of **Reactive ion beam etching equipment**.<br>
+1.Use ICP etching for **Cr mask dry etching**.<br>
+2.Develop and validate 30° **slanted TiO₂ gratings** using Reactive ion beam etching (RIBE).<br>
+3.Provide key insights for future upgrades of **Reactive ion beam etching equipment**.<br>
 
 <h2 style="color: #6c7a89;">Multi-Sensor Campus Patrol Vehicle (National Elite Institute Of Engineering)</h2>
 
-Implemented SLAM mapping using ROS and Rtabmap to fuse infrared camera and LiDAR data.<br>
+Implement SLAM mapping using ROS and Rtabmap to fuse infrared camera and LiDAR data.<br>
 
 <h1 style="color: #1a4e8c;">Internship Experience</h1>
 
 
 <h2 style="color: #6c7a89;">GermanLitho Co., Ltd. — Intern</h2>
 
-1.Fabricated spherical MicroLens‑array molds via thermal reflow, tuned and verified the parameters of the lenses.<br>
+1.Fabricate spherical MicroLens‑array molds via thermal reflow, tune and verify the parameters of the lenses.<br>
 
-2.Assisted in building an **interference‑lithography optical setup** and helped optimize and validate the exposure process.<br>
+2.Assist in building an **interference‑lithography optical setup** and help optimize and validate the exposure process.<br>
 
-3.Produced nano‑imprint molds using ICP etching, and further refined and validated the **Cr‑film surface NanoImprint process**.<br>
+3.Produce nano‑imprint molds using ICP etching, and further refine and validate the **Cr‑film surface NanoImprint process**.<br>
 
 <h2 style="color: #6c7a89;">Leuven Instruments Co., Ltd. — Intern</h2>
 
-1.Optimized Cr/Mo hard‑mask etching parameters and Optimized and implemented TiO₂ slanted etching processes across multiple fabrication scales, including **both 8-inch and 12-inch wafer processing equipment，delivering multiple customer demos** in an engineering role.<br>
+1.Optimize Cr/Mo hard‑mask etching parameters and Optimize and implement TiO₂ slanted etching processes across multiple fabrication scales, including **both 8-inch and 12-inch wafer processing equipment，delivering multiple customer demos** in an engineering role.<br>
 
-2.Participated in **equipment stability testing** to ensure long‑term tool reliability and process repeatability.<br>
+2.Participate in **equipment stability testing** to ensure long‑term tool reliability and process repeatability.<br>
 
 <h1 style="color: #1a4e8c;">Profile Summary</h1>
 
