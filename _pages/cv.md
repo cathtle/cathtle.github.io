@@ -24,7 +24,7 @@ Major Courses: Fundamentals of Materials Science, X-ray Diffraction and Electron
 
 **•Simulation & Design:** ComSol, FDTD, RSoft + LightTools, VirtualLab Fusion<br>
 **•Micro/Nano Fabrication:** EBL, DWL, Interference Lithography, NanoImprint Lithography (NIL),RIBS/IBS, ICP <br>
-**•Deposition Techniques:** Magnetron Sputtering, Ion Beam Deposition, Vacuum Evaporation<br>
+**•Deposition Techniques:** Magnetron Sputtering, Ion Beam Deposition, thermal Evaporation<br>
 **•Characterization Tools:** SEM, AFM, Confocal Microscopy<br>
 
 <h1 style="color: #1a4e8c;">Research & Projects</h1>

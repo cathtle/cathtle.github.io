@@ -22,7 +22,7 @@ redirect_from:
 
 掌握技能:
 -----
-Comsol、FDTD、 Rsoft+Lighttools、virtuallabFusion、**（仿真设计）**<br> EBL 、DWL 、干涉曝光、纳米压印 **（图形化）** <br>RIBE/IBE 、ICP **（刻蚀）** <br>磁控溅射、离子束沉积、真空蒸镀 **（沉积）** <br>SEM 、AFM、共聚焦显微镜 **（表征）**
+Comsol、FDTD、 Rsoft+Lighttools、virtuallabFusion、**（仿真设计）**<br> EBL 、DWL 、干涉曝光、纳米压印 **（图形化）** <br>RIBE/IBE 、ICP **（刻蚀）** <br>磁控溅射、离子束沉积、热蒸镀 **（沉积）** <br>SEM 、AFM、共聚焦显微镜 **（表征）**
 
 ---------
 
